@@ -43,6 +43,7 @@ releases:
     latest: "1.10.15"
     latestReleaseDate: 2021-03-17
 
+    support: 2020-12-17
 -   releaseCycle: "1.9"
     releaseDate: 2018-01-02
     eoas: 2018-08-27
@@ -50,6 +51,7 @@ releases:
     latest: "1.9.0"
     latestReleaseDate: 2018-01-02
 
+    support: 2018-08-27
 -   releaseCycle: "1.8"
     releaseDate: 2017-05-09
     eoas: 2018-01-03
@@ -57,12 +59,14 @@ releases:
     latest: "1.8.2"
     latestReleaseDate: 2017-09-04
 
+    support: 2018-01-03
 -   releaseCycle: "1.7"
     releaseDate: 2016-03-28
     eoas: 2017-03-19
     eol: 2017-03-19
     latest: "1.7.1.2"
     latestReleaseDate: 2017-05-20
+    support: 2017-03-19
 
 ---
 

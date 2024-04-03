@@ -34,6 +34,7 @@ releases:
     latest: "23.2.3"
     latestReleaseDate: 2024-03-13
 
+    support: 2025-02-05
 -   releaseCycle: "23.1"
     releaseDate: 2023-05-08
     eoas: 2024-05-15
@@ -41,6 +42,7 @@ releases:
     latest: "23.1.17"
     latestReleaseDate: 2024-03-13
 
+    support: 2024-05-15
 -   releaseCycle: "22.2"
     releaseDate: 2022-11-15
     eoas: 2023-12-05
@@ -48,6 +50,7 @@ releases:
     latest: "22.2.19"
     latestReleaseDate: 2024-02-23
 
+    support: 2023-12-05
 -   releaseCycle: "22.1"
     releaseDate: 2022-05-04
     eoas: 2023-05-24
@@ -55,6 +58,7 @@ releases:
     latest: "22.1.22"
     latestReleaseDate: 2023-08-01
 
+    support: 2023-05-24
 -   releaseCycle: "21.2"
     releaseDate: 2021-10-26
     eoas: 2022-11-16
@@ -62,6 +66,7 @@ releases:
     latest: "21.2.17"
     latestReleaseDate: 2022-10-12
 
+    support: 2022-11-16
 -   releaseCycle: "21.1"
     releaseDate: 2021-05-10
     eoas: 2022-05-18
@@ -69,6 +74,7 @@ releases:
     latest: "21.1.21"
     latestReleaseDate: 2022-08-08
 
+    support: 2022-05-18
 -   releaseCycle: "20.2"
     releaseDate: 2020-10-30
     eoas: 2021-11-10
@@ -76,6 +82,7 @@ releases:
     latest: "20.2.19"
     latestReleaseDate: 2022-02-03
 
+    support: 2021-11-10
 -   releaseCycle: "20.1"
     releaseDate: 2020-05-04
     eoas: 2021-05-12
@@ -83,6 +90,7 @@ releases:
     latest: "20.1.17"
     latestReleaseDate: 2021-05-11
 
+    support: 2021-05-12
 -   releaseCycle: "19.2"
     releaseDate: 2019-11-07
     eoas: 2020-11-12
@@ -90,6 +98,7 @@ releases:
     latest: "19.2.12"
     latestReleaseDate: 2021-01-12
 
+    support: 2020-11-12
 -   releaseCycle: "19.1"
     releaseDate: 2019-04-24
     eoas: 2020-04-30
@@ -97,6 +106,7 @@ releases:
     latest: "19.1.11"
     latestReleaseDate: 2020-06-29
 
+    support: 2020-04-30
 -   releaseCycle: "2.1"
     releaseDate: 2018-10-25
     eoas: 2019-10-30
@@ -104,6 +114,7 @@ releases:
     latest: "2.1.11"
     latestReleaseDate: 2020-01-22
 
+    support: 2019-10-30
 -   releaseCycle: "2.0"
     releaseDate: 2018-04-03
     eoas: 2019-04-04
@@ -111,6 +122,7 @@ releases:
     latest: "2.0.7"
     latestReleaseDate: 2018-11-28
 
+    support: 2019-04-04
 -   releaseCycle: "1.1"
     releaseDate: 2017-10-04
     eoas: 2018-10-12
@@ -118,12 +130,14 @@ releases:
     latest: "1.1.9"
     latestReleaseDate: 2018-10-01
 
+    support: 2018-10-12
 -   releaseCycle: "1.0"
     releaseDate: 2017-05-08
     eoas: 2018-05-10
     eol: 2018-11-10
     latest: "1.0.7"
     latestReleaseDate: 2018-02-11
+    support: 2018-05-10
 
 ---
 

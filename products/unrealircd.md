@@ -44,6 +44,7 @@ releases:
     latest: "5.2.4"
     latestReleaseDate: 2022-01-28
 
+    support: 2022-07-01
 -   releaseCycle: "4"
     releaseDate: 2015-12-24
     eoas: 2019-05-20
@@ -52,6 +53,7 @@ releases:
     latest: "4.2.4.1"
     latestReleaseDate: 2019-07-07
 
+    support: 2019-05-20
 -   releaseCycle: "3.2"
     releaseDate: 2004-04-25
     eoas: 2015-12-11
@@ -59,6 +61,7 @@ releases:
     link: https://forums.unrealircd.org/viewtopic.php?f=1&t=8588
     latest: "3.2.10.7"
     latestReleaseDate: 2016-09-03
+    support: 2015-12-11
 
 ---
 

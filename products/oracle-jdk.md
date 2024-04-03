@@ -63,6 +63,7 @@ releases:
     latest: "21.0.2"
     latestReleaseDate: 2024-01-16
 
+    extendedSupport: 2031-09-30
 -   releaseCycle: "20"
     releaseDate: 2023-03-21
     eol: 2023-09-19
@@ -89,6 +90,7 @@ releases:
     latest: "17.0.10"
     latestReleaseDate: 2024-01-16
 
+    extendedSupport: 2029-09-30
 -   releaseCycle: "16"
     releaseDate: 2021-03-16
     eol: 2021-09-14
@@ -127,6 +129,7 @@ releases:
     latest: "11.0.22"
     latestReleaseDate: 2024-01-16
 
+    extendedSupport: 2032-01-31
 -   releaseCycle: "10"
     releaseDate: 2018-03-20
     eol: 2018-09-25
@@ -175,8 +178,7 @@ releases:
     releaseDate: 2002-02-13
     # https://web.archive.org/web/20081217100039/http://java.sun.com/products/archive/eol.policy.html
     eol: 2008-10-30
-    link:
-      https://www.oracle.com/java/technologies/javase/advanced-v142-support-relnotes.html
+    link: https://www.oracle.com/java/technologies/javase/advanced-v142-support-relnotes.html
     latest: "1.4.2_42"
     latestReleaseDate: 2013-02-19
 
@@ -192,8 +194,7 @@ releases:
     releaseDate: 1998-12-04
     # https://web.archive.org/web/20080410071627/http://java.sun.com/products/archive/eol.policy.html
     eol: 2003-11-30
-    link:
-      https://web.archive.org/web/20080410071627/http://java.sun.com/products/archive/eol.policy.html
+    link: https://web.archive.org/web/20080410071627/http://java.sun.com/products/archive/eol.policy.html
     latest: "1.2.2_18"
     latestReleaseDate: 2007-01-12
 

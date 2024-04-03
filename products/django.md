@@ -62,6 +62,7 @@ releases:
     latest: "5.0.3"
     latestReleaseDate: 2024-03-04
 
+    support: 2024-08-31
 -   releaseCycle: "4.2"
     lts: true
     releaseDate: 2023-04-03
@@ -71,6 +72,7 @@ releases:
     latest: "4.2.11"
     latestReleaseDate: 2024-03-04
 
+    support: 2023-12-04
 -   releaseCycle: "4.1"
     releaseDate: 2022-08-03
     eoas: 2023-04-05
@@ -79,6 +81,7 @@ releases:
     latest: "4.1.13"
     latestReleaseDate: 2023-11-01
 
+    support: 2023-04-05
 -   releaseCycle: "4.0"
     releaseDate: 2021-12-07
     eoas: 2022-08-03
@@ -87,6 +90,7 @@ releases:
     latest: "4.0.10"
     latestReleaseDate: 2023-02-14
 
+    support: 2022-08-03
 -   releaseCycle: "3.2"
     lts: true
     releaseDate: 2021-04-06
@@ -96,6 +100,7 @@ releases:
     supportedPythonVersions: "3.6 - 3.10 (added in 3.2.9)"
     latestReleaseDate: 2024-03-04
 
+    support: 2021-12-07
 -   releaseCycle: "3.1"
     releaseDate: 2020-08-04
     eoas: 2021-04-06
@@ -104,6 +109,7 @@ releases:
     latest: "3.1.14"
     latestReleaseDate: 2021-12-07
 
+    support: 2021-04-06
 -   releaseCycle: "3.0"
     releaseDate: 2019-12-02
     eoas: 2020-08-03
@@ -112,6 +118,7 @@ releases:
     latest: "3.0.14"
     latestReleaseDate: 2021-04-06
 
+    support: 2020-08-03
 -   releaseCycle: "2.2"
     lts: true
     releaseDate: 2019-04-01
@@ -121,6 +128,7 @@ releases:
     latest: "2.2.28"
     latestReleaseDate: 2022-04-11
 
+    support: 2019-12-02
 -   releaseCycle: "2.1"
     releaseDate: 2018-08-01
     eoas: 2019-04-01
@@ -129,6 +137,7 @@ releases:
     latest: "2.1.15"
     latestReleaseDate: 2019-12-02
 
+    support: 2019-04-01
 -   releaseCycle: "2.0"
     releaseDate: 2017-12-02
     eoas: 2018-08-01
@@ -137,6 +146,7 @@ releases:
     latest: "2.0.13"
     latestReleaseDate: 2019-02-12
 
+    support: 2018-08-01
 -   releaseCycle: "1.11"
     lts: true
     releaseDate: 2017-04-04
@@ -145,6 +155,7 @@ releases:
     supportedPythonVersions: "2.7 - 3.7 (added in 1.11.17)"
     latest: "1.11.29"
     latestReleaseDate: 2020-03-04
+    support: 2017-12-02
 
 ---
 

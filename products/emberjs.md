@@ -74,6 +74,7 @@ releases:
     latest: "5.4.1"
     latestReleaseDate: 2024-01-22
 
+    support: 2024-08-19
 -   releaseCycle: "5.3"
     releaseDate: 2023-09-18
     eoas: 2023-11-03
@@ -110,6 +111,7 @@ releases:
     latest: "4.12.4"
     latestReleaseDate: 2024-01-22
 
+    support: 2024-01-22
 -   releaseCycle: "4.8"
     lts: 2022-12-08
     releaseDate: 2022-10-17
@@ -118,6 +120,7 @@ releases:
     latest: "4.8.6"
     latestReleaseDate: 2023-06-12
 
+    support: 2023-07-06
 -   releaseCycle: "4.4"
     lts: 2022-07-13
     releaseDate: 2022-05-03
@@ -126,6 +129,7 @@ releases:
     latest: "4.4.5"
     latestReleaseDate: 2023-05-04
 
+    support: 2023-02-08
 -   releaseCycle: "3.28"
     lts: 2021-12-20
     releaseDate: 2021-08-10
@@ -134,6 +138,7 @@ releases:
     latest: "3.28.12"
     latestReleaseDate: 2023-05-04
 
+    support: 2022-07-18
 -   releaseCycle: "3.24"
     lts: 2021-02-25
     releaseDate: 2020-12-28
@@ -141,6 +146,7 @@ releases:
     eol: 2022-03-10
     latest: "3.24.7"
     latestReleaseDate: 2022-11-02
+    support: 2021-09-23
 
 ---
 

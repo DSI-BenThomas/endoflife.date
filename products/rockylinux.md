@@ -40,12 +40,14 @@ releases:
     latest: "9.3"
     latestReleaseDate: 2023-11-20
 
+    support: 2027-05-31
 -   releaseCycle: "8"
     releaseDate: 2021-05-01
     eoas: 2024-05-31
     eol: 2029-05-31
     latest: "8.9"
     latestReleaseDate: 2023-11-22
+    support: 2024-05-31
 
 ---
 

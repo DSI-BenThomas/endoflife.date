@@ -40,6 +40,7 @@ releases:
     latest: '4.8.6'
     latestReleaseDate: 2024-03-26
 
+    support: 2025-03-30
 -   releaseCycle: "3"
     releaseDate: 2018-04-04
     eoas: 2023-04-30
@@ -47,6 +48,7 @@ releases:
     latest: '3.9.12'
     latestReleaseDate: 2024-03-19
 
+    support: 2023-04-30
 -   releaseCycle: "2"
     releaseDate: 2014-04-01
     eoas: 2020-01-31

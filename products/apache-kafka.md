@@ -40,6 +40,7 @@ releases:
     latest: "3.6.1"
     latestReleaseDate: 2023-12-05
 
+    extendedSupport: 2026-02-09
 -   releaseCycle: "3.5"
     releaseDate: 2023-06-13
     eol: 2023-10-03
@@ -47,6 +48,7 @@ releases:
     latest: "3.5.2"
     latestReleaseDate: 2023-12-08
 
+    extendedSupport: 2025-08-25
 -   releaseCycle: "3.4"
     releaseDate: 2023-02-06
     eol: 2023-06-13
@@ -55,6 +57,7 @@ releases:
     latest: "3.4.1"
     latestReleaseDate: 2023-05-26
 
+    extendedSupport: 2025-05-03
 -   releaseCycle: "3.3"
     releaseDate: 2022-09-28
     eol: 2023-02-06
@@ -63,6 +66,7 @@ releases:
     latest: "3.3.2"
     latestReleaseDate: 2023-01-11
 
+    extendedSupport: 2024-11-04
 -   releaseCycle: "3.2"
     releaseDate: 2022-05-09
     eol: 2022-09-28
@@ -71,6 +75,7 @@ releases:
     latest: "3.2.3"
     latestReleaseDate: 2022-09-17
 
+    extendedSupport: 2024-07-06
 -   releaseCycle: "3.1"
     releaseDate: 2022-01-21
     eol: 2022-09-19
@@ -79,6 +84,7 @@ releases:
     latest: "3.1.2"
     latestReleaseDate: 2022-09-09
 
+    extendedSupport: 2024-04-05
 -   releaseCycle: "3.0"
     releaseDate: 2021-09-20
     eol: 2022-09-19
@@ -87,6 +93,7 @@ releases:
     latest: "3.0.2"
     latestReleaseDate: 2022-09-12
 
+    extendedSupport: 2023-10-27
 -   releaseCycle: "2.8"
     releaseDate: 2021-04-18
     eol: 2022-09-19
@@ -95,6 +102,7 @@ releases:
     latest: "2.8.2"
     latestReleaseDate: 2022-09-09
 
+    extendedSupport: 2023-06-08
 -   releaseCycle: "2.7"
     releaseDate: 2020-12-19
     eol: 2021-11-15
@@ -103,6 +111,7 @@ releases:
     latest: "2.7.2"
     latestReleaseDate: 2021-10-12
 
+    extendedSupport: 2023-02-09
 -   releaseCycle: "2.6"
     releaseDate: 2020-08-03
     eol: 2021-11-15

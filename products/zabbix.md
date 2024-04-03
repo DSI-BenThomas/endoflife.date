@@ -40,6 +40,7 @@ releases:
     latest: "6.4.13"
     latestReleaseDate: 2024-03-25
 
+    support: 2024-06-30
 -   releaseCycle: "6.2"
     releaseDate: 2022-07-04
     eoas: 2023-01-31
@@ -55,6 +56,7 @@ releases:
     latest: "6.0.28"
     latestReleaseDate: 2024-03-25
 
+    support: 2025-02-28
 -   releaseCycle: "5.4"
     releaseDate: 2021-05-17
     eoas: 2022-02-28
@@ -69,6 +71,7 @@ releases:
     latest: "5.0.42"
     latestReleaseDate: 2024-03-25
 
+    support: 2023-05-31
 -   releaseCycle: "4.0"
     lts: true
     releaseDate: 2018-10-01

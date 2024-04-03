@@ -51,6 +51,7 @@ releases:
     latest: "2.7.2"
     latestReleaseDate: 2024-02-14
 
+    support: 2023-07-05
 -   releaseCycle: "1.5"
     releaseDate: 2019-02-05
     eoas: 2019-06-24

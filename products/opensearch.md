@@ -35,6 +35,7 @@ releases:
     eol: false # upcoming support(2) at least 1 year
     latest: "1.3.15"
     latestReleaseDate: 2024-03-01
+    support: 2022-05-26
 
 ---
 

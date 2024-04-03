@@ -39,6 +39,7 @@ releases:
     latest: "6.1.5"
     latestReleaseDate: 2024-03-14
 
+    extendedSupport: 2026-12-31
 -   releaseCycle: "6.0"
     supportedJavaVersions: "17 - 21"
     supportedJakartaEEVersions: "9 - 10"
@@ -48,6 +49,7 @@ releases:
     latest: "6.0.18"
     latestReleaseDate: 2024-03-14
 
+    extendedSupport: 2025-12-31
 -   releaseCycle: "5.3"
     supportedJavaVersions: "8 - 21"
     supportedJakartaEEVersions: "7 - 8"
@@ -58,6 +60,7 @@ releases:
     latest: "5.3.33"
     latestReleaseDate: 2024-03-14
 
+    extendedSupport: 2026-12-31
 -   releaseCycle: "5.2"
     supportedJavaVersions: "8, 11" # https://docs.spring.io/spring-framework/docs/5.2.22.RELEASE/spring-framework-reference/overview.html#overview
     supportedJakartaEEVersions: "N/A"
@@ -68,6 +71,7 @@ releases:
     latest: "5.2.25"
     latestReleaseDate: 2023-07-13
 
+    extendedSupport: 2023-12-31
 -   releaseCycle: "5.1"
     supportedJavaVersions: "8, 11" # https://docs.spring.io/spring-framework/docs/5.1.20.RELEASE/spring-framework-reference/overview.html#overview
     supportedJakartaEEVersions: "N/A"

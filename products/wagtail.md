@@ -36,6 +36,7 @@ releases:
     latest: "6.0.1"
     latestReleaseDate: 2024-02-15
 
+    support: 2024-05-01
 -   releaseCycle: "5.2"
     lts: true
     releaseDate: 2023-11-01
@@ -44,6 +45,7 @@ releases:
     latest: "5.2.3"
     latestReleaseDate: 2024-01-23
 
+    support: 2025-02-03
 -   releaseCycle: "5.1"
     releaseDate: 2023-08-01
     eoas: 2023-11-01
@@ -51,6 +53,7 @@ releases:
     latest: "5.1.3"
     latestReleaseDate: 2023-10-19
 
+    support: 2023-11-01
 -   releaseCycle: "5.0"
     releaseDate: 2023-05-02
     eoas: 2023-08-01
@@ -58,6 +61,7 @@ releases:
     latest: "5.0.5"
     latestReleaseDate: 2023-10-19
 
+    support: 2023-08-01
 -   releaseCycle: "4.2"
     releaseDate: 2023-02-01
     eoas: 2023-05-02
@@ -65,6 +69,7 @@ releases:
     latest: "4.2.4"
     latestReleaseDate: 2023-05-25
 
+    support: 2023-05-02
 -   releaseCycle: "4.1"
     releaseDate: 2022-11-01
     eoas: 2024-02-01
@@ -73,6 +78,7 @@ releases:
     latest: "4.1.9"
     latestReleaseDate: 2023-10-19
 
+    support: 2024-02-01
 -   releaseCycle: "4.0"
     releaseDate: 2022-08-31
     eoas: 2022-11-01
@@ -80,6 +86,7 @@ releases:
     latest: "4.0.4"
     latestReleaseDate: 2022-10-18
 
+    support: 2022-11-01
 -   releaseCycle: "3.0"
     releaseDate: 2022-05-16
     eoas: 2022-08-31
@@ -87,6 +94,7 @@ releases:
     latest: "3.0.3"
     latestReleaseDate: 2022-09-05
 
+    support: 2022-08-31
 -   releaseCycle: "2.16"
     releaseDate: 2022-02-07
     eoas: 2022-05-01
@@ -94,6 +102,7 @@ releases:
     latest: "2.16.3"
     latestReleaseDate: 2022-09-05
 
+    support: 2022-05-01
 -   releaseCycle: "2.15"
     lts: true
     releaseDate: 2021-11-04
@@ -102,6 +111,7 @@ releases:
     latest: "2.15.6"
     latestReleaseDate: 2022-09-05
 
+    support: 2023-02-01
 -   releaseCycle: "2.14"
     releaseDate: 2021-08-01
     eoas: 2021-11-04
@@ -109,6 +119,7 @@ releases:
     latest: "2.14.2"
     latestReleaseDate: 2021-10-14
 
+    support: 2021-11-04
 -   releaseCycle: "2.13"
     releaseDate: 2021-05-12
     eoas: 2021-08-01
@@ -116,6 +127,7 @@ releases:
     latest: "2.13.5"
     latestReleaseDate: 2021-10-14
 
+    support: 2021-08-01
 -   releaseCycle: "2.12"
     releaseDate: 2021-02-02
     eoas: 2021-05-12
@@ -123,6 +135,7 @@ releases:
     latest: "2.12.6"
     latestReleaseDate: 2021-07-13
 
+    support: 2021-05-12
 -   releaseCycle: "2.11"
     lts: true
     releaseDate: 2020-11-02
@@ -131,6 +144,7 @@ releases:
     latest: "2.11.9"
     latestReleaseDate: 2022-01-24
 
+    support: 2022-02-01
 -   releaseCycle: "2.10"
     releaseDate: 2020-08-11
     eoas: 2020-11-01
@@ -138,6 +152,7 @@ releases:
     latest: "2.10.2"
     latestReleaseDate: 2020-09-25
 
+    support: 2020-11-01
 -   releaseCycle: "2.9"
     releaseDate: 2020-05-04
     eoas: 2020-08-11
@@ -145,6 +160,7 @@ releases:
     latest: "2.9.3"
     latestReleaseDate: 2020-07-20
 
+    support: 2020-08-11
 -   releaseCycle: "2.8"
     releaseDate: 2020-02-03
     eoas: 2020-05-04
@@ -152,6 +168,7 @@ releases:
     latest: "2.8.2"
     latestReleaseDate: 2020-05-04
 
+    support: 2020-05-04
 -   releaseCycle: "2.7"
     lts: true
     releaseDate: 2019-11-06
@@ -159,6 +176,7 @@ releases:
     eol: 2021-02-03
     latest: "2.7.4"
     latestReleaseDate: 2020-07-20
+    support: 2021-02-03
 
 ---
 

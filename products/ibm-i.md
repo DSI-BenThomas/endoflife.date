@@ -54,6 +54,7 @@ releases:
     latestReleaseDate: 2016-04-15
     link: https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-73
 
+    extendedSupport: 2026-09-30
 -   releaseCycle: "7.2"
     releaseDate: 2014-05-02
     eol: 2021-04-30
@@ -62,6 +63,7 @@ releases:
     latestReleaseDate: 2014-05-02
     link: https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-72
 
+    extendedSupport: 2026-04-30
 -   releaseCycle: "7.1"
     releaseDate: 2010-04-23
     eol: 2018-04-30
@@ -77,6 +79,7 @@ releases:
     latestReleaseDate: 2008-04-23
     link: https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-61
 
+    extendedSupport: 2019-09-30
 -   releaseCycle: "5.4"
     releaseDate: 2006-02-14
     eol: 2013-09-30
@@ -84,6 +87,7 @@ releases:
     latest: "5.4"
     latestReleaseDate: 2006-02-14
 
+    extendedSupport: 2017-09-30
 -   releaseCycle: "5.3"
     releaseDate: 2004-06-11
     eol: 2009-04-30
@@ -91,6 +95,7 @@ releases:
     latest: "5.3"
     latestReleaseDate: 2004-06-11
 
+    extendedSupport: 2013-04-30
 -   releaseCycle: "5.2"
     releaseDate: 2002-08-30
     eol: 2007-04-30
@@ -110,6 +115,7 @@ releases:
     latest: "4.5"
     latestReleaseDate: 2000-07-28
 
+    extendedSupport: 2002-12-31
 -   releaseCycle: "4.4"
     releaseDate: 1999-05-21
     eol: 2001-05-31
@@ -117,6 +123,7 @@ releases:
     latest: "4.4"
     latestReleaseDate: 1999-05-21
 
+    extendedSupport: 2001-11-30
 -   releaseCycle: "4.3"
     releaseDate: 1998-09-11
     eol: 2001-01-31
@@ -130,6 +137,7 @@ releases:
     latest: "4.2"
     latestReleaseDate: 1998-02-27
 
+    extendedSupport: 2001-01-31
 -   releaseCycle: "4.1"
     releaseDate: 1997-08-29
     eol: 2000-05-31

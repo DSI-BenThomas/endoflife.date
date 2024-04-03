@@ -41,6 +41,7 @@ releases:
     latest: "3.2.4"
     latestReleaseDate: 2024-03-21
 
+    extendedSupport: 2026-02-23
 -   releaseCycle: "3.1"
     supportedJavaVersions: "17 - 21" # https://docs.spring.io/spring-boot/docs/3.1.x/reference/html/getting-started.html#getting-started.system-requirements
     releaseDate: 2023-05-18
@@ -49,6 +50,7 @@ releases:
     latest: "3.1.10"
     latestReleaseDate: 2024-03-21
 
+    extendedSupport: 2025-08-18
 -   releaseCycle: "3.0"
     supportedJavaVersions: "17 - 21" # https://docs.spring.io/spring-boot/docs/3.0.x/reference/html/getting-started.html#getting-started.system-requirements
     releaseDate: 2022-11-24
@@ -57,6 +59,7 @@ releases:
     latest: "3.0.13"
     latestReleaseDate: 2023-11-23
 
+    extendedSupport: 2025-02-24
 -   releaseCycle: "2.7"
     supportedJavaVersions: "8 - 21" # https://docs.spring.io/spring-boot/docs/2.7.x/reference/html/getting-started.html#getting-started.system-requirements
     releaseDate: 2022-05-19
@@ -65,6 +68,7 @@ releases:
     latest: "2.7.18"
     latestReleaseDate: 2023-11-23
 
+    extendedSupport: 2025-08-24
 -   releaseCycle: "2.6"
     supportedJavaVersions: "8 - 19" # https://docs.spring.io/spring-boot/docs/2.6.14/reference/html/getting-started.html#getting-started.system-requirements
     releaseDate: 2021-11-17
@@ -73,6 +77,7 @@ releases:
     latest: "2.6.15"
     latestReleaseDate: 2023-05-18
 
+    extendedSupport: 2024-02-24
 -   releaseCycle: "2.5"
     supportedJavaVersions: "8 - 18" # https://docs.spring.io/spring-boot/docs/2.5.14/reference/html/getting-started.html#getting-started.system-requirements
     releaseDate: 2021-05-20
